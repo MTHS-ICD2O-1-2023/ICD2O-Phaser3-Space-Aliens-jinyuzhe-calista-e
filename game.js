@@ -18,7 +18,7 @@ const config = {
     arcade: {
       debug: true,
     }
-  }
+  },
   // set backgroud color
   backgroundColor: 0x5f6e7a,
   scale: {
