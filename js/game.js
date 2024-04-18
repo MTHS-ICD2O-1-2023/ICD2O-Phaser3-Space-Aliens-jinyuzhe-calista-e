@@ -2,7 +2,7 @@
 
 // Copyright (c) 2024 Calista.E ALL Rights reserved
 //
-// Created by: Mr. Coxall
+// Created by: Calista.E
 // Created on: Apr 2024
 // This is the Phaser3 game configuration file
 
