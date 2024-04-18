@@ -19,7 +19,7 @@ const config = {
       debug: true,
     },
   },
-  // set backgroud color
+  // set background color
   backgroundColor: 0x5f6e7a,
   scale: {
     mode: Phaser.Scale.FIT,
