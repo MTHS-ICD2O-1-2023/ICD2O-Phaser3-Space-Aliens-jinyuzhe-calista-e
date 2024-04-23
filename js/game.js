@@ -8,7 +8,7 @@
 
 // sence import ststements
 import SplashScene from "./splashScene.js"
-
+import TitleScence from "./titleScene.js"
 // create the new scenes
 const splashScene = new SplashScene()
 
