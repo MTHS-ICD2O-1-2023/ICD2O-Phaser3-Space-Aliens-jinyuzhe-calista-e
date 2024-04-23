@@ -46,4 +46,3 @@ game.scene.add("titleScene", titleScene)
 
 // the start scene
 game.scene.start("splashScene")
-
