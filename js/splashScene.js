@@ -16,7 +16,7 @@ class SplashScene extends Phaser.Scene {
   constructor() {
     super({ key: "splashScene"})
 
-    this.SplashSceneBackgroundImage = null
+    this.splashSceneBackgroundImage = null
   }
 
   /**
@@ -35,7 +35,7 @@ class SplashScene extends Phaser.Scene {
    */
   preload() {
     console.log("Splash Scene")
-    this.preload.image("splashSceneBackground","./assets/splashSceneImage.png")
+    this.load.image("splashSceneBackground","./assets/splashSceneImage.png")
   }
 
   /**
