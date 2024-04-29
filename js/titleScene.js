@@ -26,7 +26,7 @@ class TitleScene extends Phaser.Scene {
   }
 
   /**
-   * Can be defined on your your own Scenes.
+   * Can be defined on your own Scenes.
    * This method is called by the Scene Manager when the scene starts,
    *   before preload() and create().
    * @param {object} data - Any data passed via ScenePlugin.add() or ScenePlugin.start().
@@ -63,9 +63,9 @@ class TitleScene extends Phaser.Scene {
 
   /**
    * Should be overridden by your own Scenes.
-   * This method is called once per game step while the scen is running.
+   * This method is called once per game step while the scene is running.
    * @param {number} time - The current time.
-   * @param {number} delta - The dalta time in ms since the last frame.
+   * @param {number} delta - The delta time in ms since the last frame.
    */
   update(time, delta) {
     // pass

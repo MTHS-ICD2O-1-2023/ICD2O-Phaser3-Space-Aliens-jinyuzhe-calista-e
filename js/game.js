@@ -6,7 +6,7 @@
 // Created on: Apr 2024
 // This is the Phaser3 game configuration file
 
-// sence import ststements
+// scene import statements
 import SplashScene from "./splashScene.js"
 import TitleScence from "./titleScene.js"
 import MenuScene from "./menuScene.js"
